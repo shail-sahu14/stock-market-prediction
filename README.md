@@ -42,3 +42,5 @@ With this tool, a user can input the **current day’s volume, open, close, high
 ```bash
 git clone https://github.com/your-username/stock-market-prediction.git
 cd stock-market-prediction
+
+![Screenshot](assets/img.png)
