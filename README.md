@@ -21,7 +21,7 @@ The project involves:
 - Interactive price prediction based on user input
 
 ---
-
+![App Screenshot](assets/img.png)
 ## 💡 Why It's Useful
 
 Stock price prediction can support:
@@ -43,4 +43,3 @@ With this tool, a user can input the **current day’s volume, open, close, high
 git clone https://github.com/your-username/stock-market-prediction.git
 cd stock-market-prediction
 
-![Screenshot](assets/img.png)
